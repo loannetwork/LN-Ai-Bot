@@ -1,3 +1,9 @@
+# Node.js
+node_modules/
+.next/
+.env
+npm-debug.log
+
 # macOS
 .DS_Store
 
@@ -5,12 +11,3 @@
 venv/
 __pycache__/
 *.pyc
-
-# Node
-node_modules/
-.next/
-.env
-
-# Logs
-*.log
-
